@@ -1,0 +1,4 @@
+This repo implements sm-2, sm-5(not yet) algorithms experimentally.
+
+
+- sm-2: https://www.supermemo.com/zh/archives1990-2015/english/ol/sm2
